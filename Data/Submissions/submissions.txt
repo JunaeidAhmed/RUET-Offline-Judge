@@ -1,0 +1,11 @@
+1 	 001 	 j 	 Basic 	 C 	 Accepted
+2 	 002 	 j 	 Area 	 Java 	 Wrong Answer
+3 	 002 	 j 	 Area 	 C 	 Wrong Answer
+4 	 002 	 j 	 Area 	 Java 	 Compilation Error
+5 	 002 	 j 	 Area 	 Java 	 Wrong Answer
+6 	 002 	 j 	 Area 	 C 	 Accepted
+7 	 001 	 a 	 Basic 	 C++ 	 Accepted
+8 	 001 	 j 	 Basic 	 C 	 Time Limit Execeeded
+9 	 001 	 j 	 Basic 	 C 	 Wrong Answer
+10 	 001 	 j 	 Basic 	 C 	 Accepted
+11 	 001 	 j 	 Basic 	 C 	 Compilation Error

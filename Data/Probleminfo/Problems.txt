@@ -1,0 +1,4 @@
+001	Basic	Easy
+002	Area of a Circle	Medium
+003	Watermelon	Easy
+004	Simple Sum	Easy
